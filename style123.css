@@ -1,0 +1,23 @@
+.block {
+
+    width: 250px;
+    
+    height: 220px;
+    
+    margin:50px 100px;
+    
+    text-align:center;
+    
+    background:#eee;
+    
+    display: table-cell;
+    
+    vertical-align:middle;
+}
+    .text {
+
+        color:c7c7c7;
+        
+        margin-left:70px;
+        
+        }
