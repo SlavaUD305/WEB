@@ -1,0 +1,12 @@
+body {
+    background: url(https://cdn.lifehacker.ru/wp-content/uploads/2018/12/Kak-fotografirovat-kotikov-19-sovetov-ot-professionala_1544744286.jpg); /* Фон для тела страницы */
+    } 
+    .prozrachen {  
+    padding: 10px; /*Отступы для текста*/  
+ 
+    margin: 0 auto; /* Центрируем блок */ 
+    width: 50%; /* Задаем ширину блока */ 
+    opacity: 0.1; /* Задаем прозрачность */
+    font: 48px/64px Times New Roman; 
+    text-align: justify;
+    }
